@@ -11,7 +11,7 @@ const Header = () => {
         });
     };
     return (
-        <div className="flex justify-center" style={{ backgroundColor: '#0B192C', width: '100vw', height: '94vh' }}>
+        <div className="flex justify-center" style={{ backgroundColor: '#0B192C', width: '100vw', height: '100vh' }}>
             <div className="flex justify-center mt-9 ml-[170px]">
                 <p className="absolute text-[70px] text-[#ffffff] font-bold leading-tight" style={{ transform: 'rotate(270deg)', top: '20%', left: '5%', transform: 'translate(-50%, -50%) rotate(270deg)' }}>
                     XYLAZ
